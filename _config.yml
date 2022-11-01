@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jiangguo Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A 5th year Ph.D. @RiceUniversity under Dr. Oleg Igoshin"
   location         : "Houston, TX"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Jiangguo+Zhang"
+  googlescholar    : "https://scholar.google.com/citations?user=KCrsvKIAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,24 +94,24 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "JiangguoZhang"
   foursquare       :
-  github           : "academicpages"
+  github           : "JiangguoZhang"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "zhang_jiangguo"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "jiangguozhang"
+  orcid            : "http://orcid.org/0000-0001-6504-4360"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "JiangguoZhang"
   vine             :
-  weibo            :
+  weibo            : "浆果杂货店"
   xing             :
   youtube          :
   wikipedia        :
