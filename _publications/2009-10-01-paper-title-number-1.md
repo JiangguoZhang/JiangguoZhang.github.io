@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Quantification of Myxococcus xanthus Aggregation and Rippling Behaviors: Deep-Learning Transformation of Phase-Contrast into Fluorescence Microscopy Images"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://www.mdpi.com/2076-2607/9/9/1954
+excerpt: 'Myxococcus xanthus bacteria are a model system for understanding pattern formation and collective cell behaviors. When starving, cells aggregate into fruiting bodies to form metabolically inert spores. During predation, cells self-organize into traveling cell-density waves termed ripples. Both phase-contrast and fluorescence microscopy are used to observe these patterns but each has its limitations. Phase-contrast images have higher contrast, but the resulting image intensities lose their correlation with cell density. The intensities of fluorescence microscopy images, on the other hand, are well-correlated with cell density, enabling better segmentation of aggregates and better visualization of streaming patterns in between aggregates; however, fluorescence microscopy requires the engineering of cells to express fluorescent proteins and can be phototoxic to cells. To combine the advantages of both imaging methodologies, we develop a generative adversarial network that converts phase-contrast into synthesized fluorescent images. By including an additional histogram-equalized output to the state-of-the-art pix2pixHD algorithm, our model generates accurate images of aggregates and streams, enabling the estimation of aggregate positions and sizes, but with small shifts of their boundaries. Further training on ripple patterns enables accurate estimation of the rippling wavelength. Our methods are thus applicable for many other phenotypic behaviors and pattern formation studies.'
+date: 2021-09-14
+venue: 'Microorganisms'
+paperurl: 'https://www.mdpi.com/2076-2607/9/9/1954'
+citation: 'Zhang, J.; Comstock, J.A.; Cotter, C.R.; Murphy, P.A.; Nie, W.; Welch, R.D.; Patel, A.B.; Igoshin, O.A. Quantification of Myxococcus xanthus Aggregation and Rippling Behaviors: Deep-Learning Transformation of Phase-Contrast into Fluorescence Microscopy Images. Microorganisms 2021, 9, 1954.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is my first Ph.D. work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.mdpi.com/2076-2607/9/9/1954/pdf?version=1631685181)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Zhang, J.; Comstock, J.A.; Cotter, C.R.; Murphy, P.A.; Nie, W.; Welch, R.D.; Patel, A.B.; Igoshin, O.A. Quantification of Myxococcus xanthus Aggregation and Rippling Behaviors: Deep-Learning Transformation of Phase-Contrast into Fluorescence Microscopy Images. Microorganisms 2021, 9, 1954.
