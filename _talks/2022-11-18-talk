@@ -1,0 +1,13 @@
+---
+title: "Quantification of *Myxococcus xanthus* Aggregation Behaviors with Deep Learning Approaches"
+collection: talks
+type: "Talk"
+permalink: /talks/2022-11-18-talk
+venue: "Computational system biology meeting, Center for Theoretical Biological Physics"
+date: 2022-11-18
+location: "online"
+---
+
+Myxococcus xanthus bacteria are a model system for understanding pattern formation and collective cell behaviors. When starving, cells aggregate into fruiting bodies to form metabolically inert spores. During predation, cells self-organize into traveling cell-density waves termed ripples. Different issues exist when we are trying to perform analysis.
+ 
+To compare emergent behaviors of different strains, we need to find a low-dimensional set of features that are biologically informative but insensitive to the effects of stochasticity and environmental variability. However, manually selected features often showed more variation between replicate aggregation movies from the same strain than with other strains. Therefore, we built a feature extraction model with both an encoder and a generator. The StyleGAN2-based generator enables us to disentangle aggregate distribution information into the noise dimensions and generate images from low-dimensional feature space. The encoder provides a way to encode M.xanthus images into the low-dimensional feature space. The cooperation of the two parts is helpful for us to evaluate the similarity of different aggregate images and tell the possible genetic relationship in different clusters.
