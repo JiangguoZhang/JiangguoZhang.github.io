@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant, Biostatistics"
+title: "Biostatistics"
 collection: teaching
-type: "Graduate course"
+type: "Teaching Assistant"
 permalink: /teaching/2020-biostatistics
 venue: "Bioengineering, Rice Unversity"
 date: Aug 2020 – Dec 2020
