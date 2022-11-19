@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology (Undergraduate Honors Program in Biology), Peking University, 2018
+* M.S. in Computer Science, Rice University, 2023 (expected)
+* Ph.D in in Bioengineering, Advisor: [Dr. Oleg Igoshin](https://igoshin.rice.edu/), Rice University, 2023 (expected)
 
 Work experience
 ======
@@ -29,13 +29,27 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language
+  * Python
+  * C/C++
+  * JAVA 
+* Data analysis
+  * MATLAB
+  * R
+* ML framework
+  * pyTorch
+  * TensorFlow
+* Parallel computation
+  * OpenMP
+  * MPI
+  * CUDA
+* Hardware Description Language
+  * Verilog
+* Frontend
+  * javascript(React)
+  * html
 
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +70,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Deputy Secretary-General, Houston Beida Alumni Association  Sep 2021 - Present
+* Vice President, Rice Chinese Students and Scholars Association  May 2019 – May 2020
+* Assistant Secretary General, Peking University New Youth Network Culture Studio  Sep 2016 – Jul 2017
+* Director, Publicity Department, Student Union, School of Life Sciences  Sep 2014 – Jul 2016
+* Volunteer, Summer Social Practice in Taiwan  Aug 2015
