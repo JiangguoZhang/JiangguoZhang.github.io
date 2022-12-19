@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is my homepage. You can learn more about me on this page. However, I just started building it, so it will take some time.
+Welcome to my homepage! My name is Jiangguo Zhang and I am a Ph.D. student in Bioengineering at Rice University. My research focuses on using multi-disciplinary models to better understand biological systems, specifically applying deep learning techniques to extract Myxo cell aggregation features and collaborating with system biologists to build chemical kinetics models to understand cell pathways. My ultimate goal is to use these models to cluster mutant strains into different genetic pathways.
 
-My primary research interest centers on applying multi-disciplinary models into biological research. I am taking advantage of deep learning to transfer phase-contrast images of Myxococcus xanthus into fluorescent images, which can be easily interpreted to cell density maps. I am also working on extracting Myxo cell aggregation features, which will be helpful to cluster mutant strains into different genetic pathways.
+I am advised by [Dr. Oleg Igoshin](https://igoshin.rice.edu/) in biophysics and [Dr. Ankit Patel](https://ankitlab.co/) in deep learning. I am deeply interested in the intersection of these two fields and how they can be applied to biological research.
 
+Thank you for visiting my homepage. I hope you find the information here informative and helpful.
