@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biology (Undergraduate Honors Program in Biology), Peking University, 2018
-* M.S. in Computer Science, Rice University, 2023 (expected)
-* Ph.D in in Bioengineering, Advisor: [Dr. Oleg Igoshin](https://igoshin.rice.edu/), Rice University, 2023 (expected)
+* B.S. in Biology (Undergraduate Honors Program in Biology), Peking University,July 2018
+* M.S. in Computer Science, Rice University, Dec. 2024 (expected)
+* Ph.D. in Bioengineering, Advisor: [Dr. Oleg Igoshin](https://igoshin.rice.edu/), Rice University, Dec. 2024 (expected)
   
 Skills
 ======
