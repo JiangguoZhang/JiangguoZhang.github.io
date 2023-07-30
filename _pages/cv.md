@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Resume](https://github.com/JiangguoZhang/jiangguozhang.github.io/blob/master/files/Jiangguo%20Zhang_Resume.pdf)
 Education
 ======
 * B.S. in Biology (Undergraduate Honors Program in Biology), Peking University,July 2018
